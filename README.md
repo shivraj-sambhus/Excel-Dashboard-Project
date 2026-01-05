@@ -24,7 +24,7 @@ In this project, I will create an interactive dashboard of coffee sales that can
 
 # Data
 
-The provided Excel file includes three structured datasets: orders, customers, and products. The orders dataset includes details of individual coffee orders, including the customer ID, the order date, customer emails, and so on. It has 1001 rows and 13 columns.  The customers dataset includes details of each customer, such as their name, address, loyalty card information, and so on. It has 1001 rows and 8 columns. The products dataset includes details of the coffee sold, such as the name of the roast, the quantity produced, the selling price, and so on. It has 49 rows and 7 columns and contains coffee data from 2019 to 2022 in the U.S.A, U.K, and Ireland.
+The provided Excel file includes three structured datasets: orders, customers, and products. The orders dataset includes details of individual coffee orders, including the customer ID, the order date, customer emails, and so on. It has 1001 rows and 13 columns.  The customers dataset includes details of each customer, such as their name, address, loyalty card information, and so on. It has 1001 rows and 8 columns. The products dataset includes details of the coffee sold, such as the name of the roast, the quantity produced, the selling price, and so on. It has 49 rows and 7 columns and contains coffee data from the U.S.A, U.K, and Ireland.
 
 <img width="967" height="40" alt="image" src="https://github.com/user-attachments/assets/a4d86e7a-348a-4cbd-85c1-06918357a6fb" />
 
@@ -53,5 +53,5 @@ The main issues I faced in this project was compiling the dashboard with the piv
 
 # Insights
 
-My main insight is that the U.S.A purchases significantly more coffee than the U.K and Ireland, specifically the Arabica and Excelsa medium roast blends. I also noticed that members of the loyalty program tend to purchase less coffee than nonmembers. This could be due to customers paying with cash, or even being unaware of the perks that come with subscribing to the loyalty program. However, it's important to note that the coffee sales data is from 2019 to 2022 and that sales could be reduced due to the COVID-19 pandemic.
+My main insight is that the U.S.A purchases significantly more coffee than the U.K and Ireland, specifically the Arabica and Excelsa medium roast blends. I also noticed that members of the loyalty program tend to purchase less coffee than nonmembers. This could be due to customers paying with cash, or even being unaware of the perks that come with subscribing to the loyalty program. However, it's important to note that the coffee sales could be lower than usual due to the COVID-19 pandemic at the time.
 
