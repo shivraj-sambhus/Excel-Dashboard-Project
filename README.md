@@ -16,7 +16,9 @@
 
 # Objective
 
-In this project, I will create an interactive dashboard of coffee sales that can be filtered by year, quantity sold, roast type, and by members of the loyalty program. This allows me to analyze the customer sales dataset and understand the frequency of purchases by customer and country. Note that this project was completed in Google Sheets and you may encounter issues with compiling it if you use Excel directly.
+Micheal is the owner of a multinational coffee chain operating in the U.S.A, U.K, and Ireland and wants to know what the total sales of his company are in each month and whether or not his company's customer loyalty program is successful.
+
+In this project, I will create an interactive dashboard of coffee sales that can be filtered by year, quantity sold, roast type, and by members of the loyalty program. This allows me to determine the customer sales per month in each country and to compare the sales of members of the loyalty program versus nonmembers. Note that this project was completed in Google Sheets and you may encounter issues with compiling it if you use Excel directly.
 
 <img width="967" height="40" alt="image" src="https://github.com/user-attachments/assets/c6ab204a-bb10-4245-ab20-1771c4897068" />
 
@@ -24,7 +26,7 @@ In this project, I will create an interactive dashboard of coffee sales that can
 
 # Data
 
-The provided Excel file includes three structured datasets: orders, customers, and products. The orders dataset includes details of individual coffee orders, including the customer ID, the order date, customer emails, and so on. It has 1001 rows and 13 columns.  The customers dataset includes details of each customer, such as their name, address, loyalty card information, and so on. It has 1001 rows and 8 columns. The products dataset includes details of the coffee sold, such as the name of the roast, the quantity produced, the selling price, and so on. It has 49 rows and 7 columns and contains coffee data from the U.S.A, U.K, and Ireland.
+The provided Excel file includes three structured datasets: orders, customers, and products. The orders dataset includes details of individual coffee orders, including the customer ID, the order date, customer emails, and so on. It has 1001 rows and 13 columns.  The customers dataset includes details of each customer, such as their name, address, loyalty card information, and so on. It has 1001 rows and 8 columns. The products dataset includes details of the coffee sold, such as the name of the roast, the quantity produced, the selling price, and so on. It has 49 rows and 7 columns.
 
 <img width="967" height="40" alt="image" src="https://github.com/user-attachments/assets/a4d86e7a-348a-4cbd-85c1-06918357a6fb" />
 
@@ -53,5 +55,4 @@ The main issues I faced in this project was compiling the dashboard with the piv
 
 # Insights
 
-My main insight is that the U.S.A purchases significantly more coffee than the U.K and Ireland, specifically the Arabica and Excelsa medium roast blends. This is likely due to a larger market for coffee in the U.S.A and the buying power of major commercial cafes such as Starbucks. I also noticed that members of the loyalty program tend to purchase less coffee than nonmembers. This could be due to customers paying with cash, or even being unaware of the perks that come with subscribing to the loyalty program. However, it's important to note that the coffee sales could be lower than usual due to the COVID-19 pandemic at the time.
-
+My main insight is that the U.S.A purchases significantly more coffee per month than the U.K and Ireland, specifically the Arabica and Excelsa medium roast blends. The total sales for Arabica peaked at $841 in September of 2021 and the sales for Excelsa peaked at $681 in April of 2019. This is likely due to a larger market for coffee in the U.S.A and Micheal may possibly have more branches of his business there. The first 4 customers in the top 5 customers are all from the U.S.A and have purchased significantly more coffee than their U.K and Irish counterparts. I also noticed that members of the loyalty program tend to purchase less coffee than nonmembers and that there are nonmembers in the customers dataset. This could be due to customers paying with cash, or even being unaware of the perks that come with subscribing to the loyalty program. However, it's important to note that the coffee sales could be lower than usual due to the COVID-19 pandemic at the time. In conclusion, the total sales from 2019 to 2022 are $35,639 in the U.S.A, $6,697 in the U.K, and $2,799 in Ireland, and the loyalty program is unsuccessful.
