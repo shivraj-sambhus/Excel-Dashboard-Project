@@ -53,5 +53,5 @@ The main issues I faced in this project was compiling the dashboard with the piv
 
 # Insights
 
-My main insight is that the U.S.A purchases significantly more coffee than the U.K and Ireland, specifically the Arabica and Excelsa medium roast blends. I also noticed that members of the loyalty program tend to purchase less coffee than nonmembers. This could be due to customers paying with cash, or even being unaware of the perks that come with subscribing to the loyalty program. However, it's important to note that the coffee sales could be lower than usual due to the COVID-19 pandemic at the time.
+My main insight is that the U.S.A purchases significantly more coffee than the U.K and Ireland, specifically the Arabica and Excelsa medium roast blends. This is likely due to a larger market for coffee in the U.S.A and the buying power of major commercial cafes such as Starbucks. I also noticed that members of the loyalty program tend to purchase less coffee than nonmembers. This could be due to customers paying with cash, or even being unaware of the perks that come with subscribing to the loyalty program. However, it's important to note that the coffee sales could be lower than usual due to the COVID-19 pandemic at the time.
 
