@@ -6,7 +6,7 @@
 
 <img width="1088" height="99" alt="image" src="https://github.com/user-attachments/assets/a35c727d-e45b-4445-83da-c07e4b516a4b" />
 
-
+ 
 <figure>
   <img width="1298" height="557" alt="image" src="https://github.com/user-attachments/assets/f622fbc0-de6e-4243-a5da-e8bc0797b7fe" />
   <figcaption>    Total coffee sales of medium roast blends purchased by customers without loyalty cards from 2019 to 2022</figcaption>
